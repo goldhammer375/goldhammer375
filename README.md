@@ -78,15 +78,16 @@ Me considero una persona **puntual, organizada y con gran capacidad de aprendiza
 - Administración de sistemas Linux y Windows
 - Active Directory, Samba, LDAP, DHCP, DNS, SSH, HTTP, VoIP
 - Montaje y mantenimiento de equipos y servidores
-- Microsoft Office: Word, Excel, PowerPoint
+- Microsoft Office: Word, Excel, PowerPoint, Access
+  
 ---
 
 ## 🌟 Proyectos Destacados
 
-- **Juego Clicker (Kotlin, Jetpack Compose)** -> 🔗 [Ver en GitHub](https://github.com/goldhammer375/JuegoClicker)  
+- **Juego Clicker (Kotlin, Jetpack Compose)** &rarr; 🔗 [Ver en GitHub](https://github.com/goldhammer375/JuegoClicker)  
   Juego para Android con interfaz moderna, lógica de puntuación y gestión de estados.
 
-- **Controlador para sensores y servomotores (Arduino)** -> 🔗 [Ver en GitHub](https://github.com/goldhammer375/ControladorServomotores)  
+- **Controlador para sensores y servomotores (Arduino)** &rarr; 🔗 [Ver en GitHub](https://github.com/goldhammer375/ControladorServomotores)  
   Controlador para posicionar sensores en túneles de viento.  
 
 ---
@@ -95,6 +96,6 @@ Me considero una persona **puntual, organizada y con gran capacidad de aprendiza
  
 [![Email](https://img.shields.io/badge/Email-preimundezsanz%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preimundezsanz@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pablo%20reimundez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-reimundez)  
-[![GitHub](https://img.shields.io/badge/GitHub-goldhammer375.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goldhammer375/goldhammer375.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-goldhammer375.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goldhammer375)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer)
