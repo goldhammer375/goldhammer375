@@ -90,6 +90,12 @@ Me considero una persona **puntual, organizada y con gran capacidad de aprendiza
 - **Controlador para sensores y servomotores (Arduino)** &rarr; 🔗 [Ver en GitHub](https://github.com/goldhammer375/ControladorServomotores)  
   Controlador para posicionar sensores en túneles de viento.  
 
+- **API de administración de empleados (Python FastAPI)** &rarr; 🔗 [Ver en GitHub](https://github.com/goldhammer375/FastAPI_EmployeeAdministration)
+  Pequeña API para administrar empleados, departamentos y oficinas
+
+- **Aplicación de escritorio de administración de empleados (.NET MAUI)** &rarr; 🔗 [Ver en GitHub](https://github.com/goldhammer375/MAUI_EmployeeAdministration)
+  Pequeña aplicación multiplataforma para administrar empleados, departamentos y oficinas, conectándose a una API
+
 ---
 
 ## 🌐 Contacto
