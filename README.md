@@ -14,6 +14,7 @@ Me considero una persona **puntual, organizada y con gran capacidad de aprendiza
 ---
 
 ## 💡 Habilidades
+
 - Puntualidad  
 - Organización  
 - Aprendizaje rápido  
@@ -24,6 +25,7 @@ Me considero una persona **puntual, organizada y con gran capacidad de aprendiza
 ---
 
 ## 🌐 Idiomas
+
 - Español — Nativo  
 - Inglés — Nivel medio  
 
@@ -59,7 +61,8 @@ Me considero una persona **puntual, organizada y con gran capacidad de aprendiza
 
 ## 🛠️ Tecnologías y Herramientas
 
-### **Desarrollo de software**  
+### **Desarrollo de software**
+
 - Java, C#, Python, Kotlin, JavaScript, HTML5, CSS3, Arduino 
 - Spring, Jetpack Compose, Android Studio, FastAPI, ASP.NET, .NET MAUI
 - Hibernate (ORM), Firebase, Retrofit
@@ -67,14 +70,17 @@ Me considero una persona **puntual, organizada y con gran capacidad de aprendiza
 - Pruebas unitarias con JUnit
 - Git, GitHub, Maven
 
-### **Bases de datos y virtualización**  
+### **Bases de datos y virtualización**
+
 - Oracle, PostgreSQL, MySQL, MongoDB
 - Docker, AWS, Proxmox, VirtualBox  
 
 ### **Análisis de datos**
+
 - PowerBI, Python (NumPy, Pandas, Matplotlib, Seaborn)
 
-### **Sistemas y redes**  
+### **Sistemas y redes**
+
 - Administración de sistemas Linux y Windows
 - Active Directory, Samba, LDAP, DHCP, DNS, SSH, HTTP, VoIP
 - Montaje y mantenimiento de equipos y servidores
